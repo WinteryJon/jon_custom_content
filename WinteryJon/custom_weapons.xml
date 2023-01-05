@@ -3,7 +3,7 @@
 	<info>
 		<name>Custom Weapons</name>
 		<update version="0.0.1">
-			<file name="file1.xml" url="https://raw.githubusercontent.com/WinteryJon/jon_custom_content/master/WinteryJon/custom_weapons.xml" />
+			<file name="custom_weapons.xml" url="https://raw.githubusercontent.com/WinteryJon/jon_custom_content/master/WinteryJon/custom_weapons.xml" />
 		</update>
 	</info>
 	

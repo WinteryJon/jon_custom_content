@@ -9,7 +9,7 @@
 	
 	<!-- place your elements here -->
 	
-	 <element name="Falchion" type="Weapon" source="Custom">
+	 <element name="Falchion" type="Weapon" source="Custom" id="custom">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE, ID_INTERNAL_WEAPON_GROUP_SWORDS</supports>
 		<description>
 			<p>"A large curved, heavy-point sword."</p>

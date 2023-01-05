@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<index>
+	<info>
+		<name>Jon's Custom Content</name>
+		<update version="1.0.0">
+			<file name="winteryjon.index" url="https://raw.githubusercontent.com/WinteryJon/jon_custom_content/master/winteryjon.index" />
+		</update>
+	</info>
+	<files>
+		<file name="file1.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/custom_weapons.xml" />
+		<file name="file2.xml" url="https://raw.githubusercontent.com/yourgithubaccount/repositoryname/master/user-yourname/file2.xml" />
+	</files>
+</index>

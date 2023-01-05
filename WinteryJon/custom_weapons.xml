@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Custom Weapons</name>
-		<update version="0.0.1">
+		<update version="0.0.2">
 			<file name="custom_weapons.xml" url="https://raw.githubusercontent.com/WinteryJon/jon_custom_content/master/WinteryJon/custom_weapons.xml" />
 		</update>
 	</info>
@@ -12,13 +12,13 @@
 	 <element name="Falchion" type="Weapon" source="Custom">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE, ID_INTERNAL_WEAPON_GROUP_SWORDS</supports>
 		<description>
-			<p>"A large curved, heavy-point sword."</p>
+			<p>A large curved sword with a hilt in the shape of a golden dragon biting on a red ruby</p>
 		</description>
 
 		<setters>
 			<set name="category">Weapons</set>
 			<set name="cost" currency="gp">75</set>
-			<set name="weight" lb="3">8 lb.</set>
+			<set name="weight" lb="8">8 lb.</set>
 			<set name="slot">onehand</set>
 			<set name="damage" type="slashing">1d8</set>
 			<set name="versatile">2d4</set>

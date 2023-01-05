@@ -9,10 +9,10 @@
 	
 	<!-- place your elements here -->
 	
-	 <element name="Falchion" type="Weapon" source="Custom" id="custom">
+	 <element name="Red's Falchion" type="Weapon" source="Custom" id="custom">
 		<supports>ID_INTERNAL_WEAPON_CATEGORY_MARTIAL_MELEE, ID_INTERNAL_DAMAGE_TYPE_SLASHING, ID_INTERNAL_WEAPON_PROPERTY_VERSATILE, ID_INTERNAL_WEAPON_GROUP_SWORDS</supports>
 		<description>
-			<p>"A large curved, heavy-point sword."</p>
+			<p>A large curved sword with a hilt in the shape of a golden dragon biting on a red ruby</p>
 		</description>
 
 		<setters>
